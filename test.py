@@ -1,4 +1,4 @@
-x = 23
+x = 22
 epsilon = 0.01
 step = 0.1
 guess = 0.0
